@@ -245,6 +245,7 @@ export default [
       sv: 'Denna amulett har en konstig uppsättning överlappande skivor som kranar i naturliga energier och förstärker bärarens naturliga skydd. Många magiska användare strävar efter att lära sig dessa amulets hemligheter så att de kan reproduceras.',
       ko: '이 부적은 자연 에너지를 활용하고 착용자의 자연 보호를 증폭시키는 이상한 세트의 중복 디스크를 가지고 있습니다. 많은 마술 사용자는이 부적의 비밀을 배우기 위해 노력합니다.',
       ro: 'Această amuletă are un set ciudat de discuri ce se suprapun și care se conectează la energiile naturale astfel amplificând protecția naturală a purtătorului. Mulți utilizatori de magie se străduiesc să învețe secretele acestor amulete, astfel încât acestea să poată fi reproduse.',
+      tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını öğrenmeye çalıştı ki çoğaltılabilsin.',
       hu: 'Egymást fedő és beburkoló lapok alkotják ezt az amulettet, ami a természet erőihez nyúlva biztosítja viselőjének a védelmet. Mágusok százai munkálkodnak azon, hogy megérthessék hogyan működnek ezek az eszközök, hogy egy napon talán ők is létrehozhassanak egyet.'
     }
   },
